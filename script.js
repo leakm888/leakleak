@@ -3,4 +3,5 @@ document.addEventListener("DOMContentLoaded", function() {
   btn.addEventListener("click", function() {
     alert("Button clicked!");
   });
+
 });
